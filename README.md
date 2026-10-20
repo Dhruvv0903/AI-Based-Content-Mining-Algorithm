@@ -1,6 +1,6 @@
 # AI-Based Content Mining Algorithm
 
-An AI-powered movie recommendation system that delivers personalized movie recommendations using a hybrid approach combining **Content-Based Filtering** and **Collaborative Filtering**. Built using the **MovieLens dataset**, the application analyzes movie metadata and user rating patterns to recommend similar content through an interactive **Streamlit** interface.
+An AI-powered movie recommendation system that delivers personalized movie recommendations using **Content-Based Filtering** and **Collaborative Filtering**. Built using the **MovieLens dataset**, the application analyzes movie metadata and user rating patterns to recommend similar content through an interactive **Streamlit** interface.
 
 ---
 
@@ -21,16 +21,14 @@ An AI-powered movie recommendation system that delivers personalized movie recom
 - Python
 - Streamlit
 - Pandas
-- NumPy
 - Scikit-learn
 - SciPy
-- MovieLens Dataset
 
 ---
 
 ## Dataset
 
-This project uses the **MovieLens Latest Dataset** provided by GroupLens Research.
+This project uses the **MovieLens Dataset** provided by GroupLens Research.
 
 Required files:
 
@@ -83,35 +81,10 @@ The application will be available at:
 http://localhost:8501
 ```
 
----
-
-## Future Enhancements
-
-- Integrate **TMDb API** for movie posters, overviews, cast information, trailers, and ratings.
-- Support **OTT platform discovery** by displaying where recommended movies are currently available to stream.
-- Implement **Neural Collaborative Filtering (NCF)** for improved recommendation accuracy.
-- Incorporate **Natural Language Processing (NLP)** and **sentiment analysis** to enhance content understanding and personalization.
-- Add user authentication, personalized watchlists, recommendation history, and cloud deployment for a complete cross-platform recommendation platform.
 
 ---
 
-## Skills Demonstrated
-
-- Artificial Intelligence
-- Machine Learning
-- Content Mining
-- Recommendation Systems
-- Collaborative Filtering
-- Content-Based Filtering
-- Information Retrieval
-- Feature Engineering
-- TF-IDF Vectorization
-- Cosine Similarity
-- Sparse Matrix Computation
-- Streamlit Application Development
-
----
 
 ## Acknowledgements
 
-Developed in collaboration with **Balbhas Business Sysnomics** using the **MovieLens** dataset.
+Developed during my internship at **Balbhas Business Sysnomics** using the **MovieLens** dataset.
